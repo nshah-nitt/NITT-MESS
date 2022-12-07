@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container h1 {
+    color: rgb(85, 11, 136);
+    margin-bottom: 50px;
+}
+
+body {
+    background-image: url("img1.jpg");
+    /* background-position: 0vw; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+.form-group {
+    width: 700px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
